@@ -10,9 +10,7 @@ This project is a simple game created just for learning
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 
 
 ## Requirements
